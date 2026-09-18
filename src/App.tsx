@@ -730,7 +730,6 @@ export default function App() {
           <div className="grid sm:grid-cols-2 gap-3 mb-16">
             {[
               { label: "Email", val: "jiayu98518@163.com", accent: "#18C8FF" },
-              { label: "WeChat", val: "ClaudeX_9", accent: "#3BFFA0" },
               { label: "LinkedIn / Behance", val: "李家瑜 Jiayu Li", accent: "#FF7048" },
               { label: "Location", val: "Shanghai, China", accent: "#18C8FF" },
             ].map((c) => (
