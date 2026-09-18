@@ -1,0 +1,12 @@
+{
+  "title": "李家瑜 Jiayu Li — Interactive Experience Designer",
+  "language": "zh-CN",
+  "description": "Showcase your immersive interactive and visual projects with a vibrant, bilingual portfolio website designed for confident professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
